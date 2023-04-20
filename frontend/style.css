@@ -1,0 +1,91 @@
+
+body {
+    background: url("sunset-gf6d5e61d5_1920.jpg");
+    background-repeat: none;
+    background-size: cover;
+  }
+
+.button-45 {
+  align-items: center;
+  background-color: #FFE7E7;
+  background-position: 0 0;
+  border: 1px solid #FEE0E0;
+  border-radius: 11px;
+  box-sizing: border-box;
+  color: #D33A2C;
+  cursor: pointer;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 33.4929px;
+  list-style: outside url(https://www.smashingmagazine.com/images/bullet.svg) none;
+  padding: 2px 12px;
+  text-align: left;
+  text-decoration: none;
+  text-shadow: none;
+  text-underline-offset: 1px;
+  transition: border .2s ease-in-out,box-shadow .2s ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  word-break: break-word;
+}
+
+.button-45:active,
+.button-45:hover,
+.button-45:focus {
+  outline: 0;
+}
+
+
+.button-45:active {
+  background-color: #D33A2C;
+  box-shadow: rgba(0, 0, 0, 0.12) 0 1px 3px 0 inset;
+  color: #FFFFFF;
+}
+
+.button-45:hover {
+  background-color: #FFE3E3;
+  border-color: #FAA4A4;
+}
+
+.button-45:active:hover,
+.button-45:focus:hover,
+.button-45:focus {
+  background-color: #D33A2C;
+  box-shadow: rgba(0, 0, 0, 0.12) 0 1px 3px 0 inset;
+  color: #FFFFFF;
+}
+
+  h1 {
+    font-size: 62px;
+    text-shadow: -1px -1px rgb(68, 0, 204), 1px 1px rgb(0, 5, 102), -3px 0 4px #000;
+    font-family: Arial, Helvetica, sans-serif;
+    color: pink;
+    padding: 16px;
+    font-weight: lighter;
+    -moz-box-shadow: 2px 2px 6px #888;
+    -webkit-box-shadow: 2px 2px 6px #888;
+    box-shadow: 2px 2px 6px #888;
+    text-align: center;
+    display: block;
+    margin: 16px;
+  }
+  h2{
+    font-size: 32px;
+    text-shadow: -1px -1px rgb(0, 37, 204), 1px 1px rgb(0, 102, 85), -3px 0 4px #000;
+    font-family: cursive;
+    color: whitesmoke;
+    padding: 16px;
+    font-weight: lighter;
+  }
+
+  h3{
+    font-size: 32px;
+    text-shadow: -1px -1px rgb(0, 153, 204), 1px 1px rgb(39, 0, 102), -3px 0 4px #000;
+    font-family: cursive;
+    color: black;
+    padding: 16px;
+    font-weight: lighter;
+  }
